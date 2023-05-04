@@ -1,0 +1,6 @@
+pymongo~=4.3.3
+customtkinter~=5.1.2
+hikari~=2.0.0.dev118
+python-dotenv~=1.0.0
+Pillow~=9.5.0
+requests
